@@ -1,8 +1,17 @@
 body{
- background:#FFFFCC;
- color:#333;
- width:100%;
- font-family:sans-serif;
- margin:0 auto;
+   background:#FFFFCC;
+   color:#333;
+   width:100%;
+   font-family:sans-serif;
+   margin:0 auto;
+}
+
+.header{
+    width:90%;
+    margin:auto;
+    height:120px;
+    line-height:120px;
+    background:#993300;
+    color:#fff;
 }
 
