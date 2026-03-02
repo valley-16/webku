@@ -29,7 +29,7 @@ body{
    padding:0 auto;
 
 .menu ul {
-    list-style;none;
+    list-style:none;
 }
 
 .menu ul li a {
@@ -45,6 +45,7 @@ body{
    background-color:#4b88bb;
    display:block;
 }
+
 
 
 
