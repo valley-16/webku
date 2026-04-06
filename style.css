@@ -5,7 +5,6 @@ body{
    font-family:sans-serif;
    margin:0 auto;
 }
-
 .header{
     width:90%;
     margin:auto;
@@ -46,7 +45,6 @@ body{
    display:block;
 }
 
-
 .content{
    width:90%;
    margin:auto;
@@ -56,7 +54,7 @@ body{
    color:#333;
 }
 
-. border{
+.border{
    border:2px solid #4887b9;
    margin-top:1pc;
    padding-bottom:1pc;
